@@ -17,8 +17,8 @@
       "folder_name": "All-In",
       "mod_id": "All-In",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/All-In_v1.0_8fd7405b.zip",
-      "bundle_sha256": "8fd7405b9842c1ce9e510d13600d7214978e4e8ffa0d17f082659aefee620724"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/All-In_v1.0_a7bc5f33.zip",
+      "bundle_sha256": "a7bc5f33b1fcf3b8dbcde42b187f69371d176a12dad938906b391d85c4306d58"
     },
     {
       "name": "Ancients Awakened",
@@ -34,8 +34,8 @@
       "folder_name": "AncientsAwakened",
       "mod_id": "AncientsAwakened",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.2_3b6e28c6.zip",
-      "bundle_sha256": "3b6e28c6eae45cf078623c91a1cef896498946cfc402055f649c240696a174b4"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.2_40768c51.zip",
+      "bundle_sha256": "40768c5106a1757f70d941efa7f7136321e213ec0c2d619231d04ad1108064e6"
     },
     {
       "name": "BaseLib",
@@ -51,8 +51,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_701d3563.zip",
-      "bundle_sha256": "701d3563e675b5cdf5941fcd4c5a4780664442cebf328a06e51b12368ab6b82b"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_23274ff6.zip",
+      "bundle_sha256": "23274ff675e239909b11de949157d4aae36c287299cfe58b3b8a9b87ac7bfd40"
     },
     {
       "name": "BetterSpire2",
@@ -82,8 +82,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_511503fa.zip",
-      "bundle_sha256": "511503fab18d8dbb698d58f2a7937e028a3a976409c1ee7b9bd4e0d57f1d9053"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_508fd211.zip",
+      "bundle_sha256": "508fd21136f4d7831f7cb6b01a213f2d904a34f448ba00a9a3a0e35f04dda924"
     },
     {
       "name": "Corrupted",
@@ -99,25 +99,8 @@
       "folder_name": "TheCorrupted",
       "mod_id": "TheCorrupted",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Corrupted_v1.1.3_289fe1b3.zip",
-      "bundle_sha256": "289fe1b37760b0d1f49a39035543065e84d0b6177669126c33b24e330ccbda2b"
-    },
-    {
-      "name": "overkill",
-      "version": "v0.1.0",
-      "source": null,
-      "hash": "e13ad6da24437d6952bd947c206f0994a58f028c22eee1eb6f0a101f08b083e6",
-      "files": [
-        "WhipCorpse\\WhipCorpse.dll",
-        "WhipCorpse\\WhipCorpse.json",
-        "WhipCorpse\\WhipCorpse.pck",
-        "WhipCorpse\\WhipCorpseConfig.json"
-      ],
-      "folder_name": "WhipCorpse",
-      "mod_id": "WhipCorpse",
-      "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/overkill_v0.1.0_9c244780.zip",
-      "bundle_sha256": "9c244780e381a492900fd359e5dee58ec02ee2647ccc4d051458589c206ebf04"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Corrupted_v1.1.3_95c9238b.zip",
+      "bundle_sha256": "95c9238b1007c32031bf069676337f3b67831a3d5f20cba0ce7f5f65a58e7cbc"
     },
     {
       "name": "Qu",
@@ -133,8 +116,8 @@
       "folder_name": "Qu",
       "mod_id": "Qu",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Qu_v0.0.1_0cbc484d.zip",
-      "bundle_sha256": "0cbc484d8164a9ed3db6230b6dcbbd406c4081b82fc67092108370714a110944"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Qu_v0.0.1_88715a48.zip",
+      "bundle_sha256": "88715a48b0bfe5bbf075eb58000c49417bee819ee9026fc3b17ec7cceb180210"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -151,8 +134,8 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_d7fd0c59.zip",
-      "bundle_sha256": "d7fd0c5903bb3b20f1b9856c8e1e184bd41228e5128040e093763333aa5cde8e"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_10c07b22.zip",
+      "bundle_sha256": "10c07b223da4cfd21e825c28ece6264a3f19f6abd8dd3fec97fcf92d2ea5aa49"
     },
     {
       "name": "SlayThePlayer",
@@ -168,8 +151,8 @@
       "folder_name": "SlayThePlayer",
       "mod_id": "SlayThePlayer",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/SlayThePlayer_v1.2.2_4d02267e.zip",
-      "bundle_sha256": "4d02267ee32e053b3afba8cf507d4a37b84dd70b142dcb21904bf7bae15f2af2"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/SlayThePlayer_v1.2.2_7e390bd5.zip",
+      "bundle_sha256": "7e390bd51574cdbc17ee6dc595f31d11bbefb434143a5717595aacd1299b93ab"
     },
     {
       "name": "The Artist",
@@ -185,8 +168,8 @@
       "folder_name": "TheArtist",
       "mod_id": "TheArtist",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/The_Artist_v0.1.0_7a256b18.zip",
-      "bundle_sha256": "7a256b18cd806895a8257c1bb4119fc001f6de1531bf336d3711327713435a08"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/The_Artist_v0.1.0_8a9951a9.zip",
+      "bundle_sha256": "8a9951a9f96f6d80018f3ecf3c480cfa56f0c225b41b5585c9ab34bdd25b2880"
     },
     {
       "name": "The Rhythm Girl",
@@ -202,8 +185,8 @@
       "folder_name": "TheRhythmGirl",
       "mod_id": "TheRhythmGirl",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/The_Rhythm_Girl_v2.0.2_c0ee51bb.zip",
-      "bundle_sha256": "c0ee51bbfd675296bab7878053b6fe6036366d4616323a5bdf9619436dc10289"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/The_Rhythm_Girl_v2.0.2_42ff7126.zip",
+      "bundle_sha256": "42ff7126ddacc04e3fffbee1c1f8e57bcaaa8d0c29cc9c35da30bada3d3c90c3"
     },
     {
       "name": "Unified Save Path",
@@ -219,21 +202,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_4bc9950e.zip",
-      "bundle_sha256": "4bc9950e18bd7e7491080ddac9dad8e12323c012119ef75f6ce2d38e0c5edcaa"
-    },
-    {
-      "name": "vortex.deployment.slaythespire2-mod",
-      "version": "0.0.0",
-      "source": null,
-      "hash": "cc3f60052627e0349e0f4446f01cd34417a629a7e6efe8d8cd60801499d1185a",
-      "files": [
-        "vortex.deployment.slaythespire2-mod.json"
-      ],
-      "folder_name": "vortex.deployment.slaythespire2-mod",
-      "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/vortex_deployment_slaythespire2-mod_v0.0.0_6b66593d.zip",
-      "bundle_sha256": "6b66593d2cfd522812dce993f16ea49ab38326b015ec19523cf4bbd70e8eadab"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_37d267e1.zip",
+      "bundle_sha256": "37d267e196b78e0d73663bef044d4ffce0d3c4b0f613e8b36bfb0500b8b4af24"
     },
     {
       "name": "Wanderer",
@@ -249,8 +219,8 @@
       "folder_name": "Wanderer",
       "mod_id": "Wanderer",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Wanderer_v0.1.0_6cd6b616.zip",
-      "bundle_sha256": "6cd6b616aaab239d9ee46549564b7f94636faf0ce8f9445d5a931c9c07d0edce"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Wanderer_v0.1.0_1fe517ac.zip",
+      "bundle_sha256": "1fe517ace287e3d26ae6adbd82d809dad0775792fd6656729768dd67e40bd082"
     },
     {
       "name": "Zeus Ancient",
@@ -267,8 +237,8 @@
       "folder_name": "ZeusAncient",
       "mod_id": "ZeusAncient",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Zeus_Ancient_v0.1.0_635696a1.zip",
-      "bundle_sha256": "635696a1bb627fb893b546ac6898d0a8222a7cda423ed952cf8f1538a131ba44"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/Zeus_Ancient_v0.1.0_025ed029.zip",
+      "bundle_sha256": "025ed029c3e53cc99ed784f611fc14103cd7fd197b76c7f20b16f9813d234136"
     },
     {
       "name": "大黑塔",
@@ -284,8 +254,8 @@
       "folder_name": "Herta",
       "mod_id": "Herta",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/_v1.0_16acdc1a.zip",
-      "bundle_sha256": "16acdc1ad49454f547773db720a79f6a997b0954fe5aaea3915072327f64dc52"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/_v1.0_6fd9d2d6.zip",
+      "bundle_sha256": "6fd9d2d640b87f510c19fbc19d134e0fca47bcc446163649070af134ae8df7e4"
     },
     {
       "name": "皮皮统计: Skada",
@@ -301,8 +271,8 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_de1b24e5.zip",
-      "bundle_sha256": "de1b24e599944876e35458c935e1f1e34c98bcee1872a88f04e2c6ca0856d78f"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_ae5427fe.zip",
+      "bundle_sha256": "ae5427fe281bca9b3e00a9942d5f89694d46a49815d032e6a946ce6bf9830880"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -318,11 +288,24 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_9ccdc23b.zip",
-      "bundle_sha256": "9ccdc23b7afb1d4e76a37b7d70cb8fb33e80344bee8232240c31e73d22e23484"
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_3eca9a1a.zip",
+      "bundle_sha256": "3eca9a1a9d2e72c0370a085b4482a3bf57130f2c84a9baa9ff604ea6931755e2"
+    },
+    {
+      "name": "vortex.deployment.slaythespire2-mod",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "cc3f60052627e0349e0f4446f01cd34417a629a7e6efe8d8cd60801499d1185a",
+      "files": [
+        "vortex.deployment.slaythespire2-mod.json"
+      ],
+      "folder_name": "vortex.deployment.slaythespire2-mod",
+      "enabled": false,
+      "bundle_url": "https://github.com/IHatethismodloader/sts2mm-profiles/releases/download/bundles/vortex_deployment_slaythespire2-mod_v0.0.0_1b8c3716.zip",
+      "bundle_sha256": "1b8c37162df3749ffc48edf92d923ddd0113526045374c029ccad3001f67b38d"
     }
   ],
   "created_at": "2026-05-23T21:52:56.588498Z",
-  "updated_at": "2026-05-23T21:52:56.588498Z",
+  "updated_at": "2026-05-23T22:15:48.326537300Z",
   "public": false
 }
